@@ -85,3 +85,4 @@ C:\Users\lorna\source\repos\EssentialTools\bin\Microsoft.CodeDom.Providers.DotNe
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CopyComplete
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.dll
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.pdb
+C:\Users\lorna\source\repos\EssentialTools\bin\WebActivator.dll

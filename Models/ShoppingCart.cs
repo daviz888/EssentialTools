@@ -10,9 +10,10 @@ namespace EssentialTools.Models
         {
             calc = calcParam;
         }
+
         public IEnumerable<Product> Products { get; set; }
 
-        public decimal CalculatedProductTotal()
+        public decimal CalculateProductTotal()
         {
             return calc.ValueProducts(Products);
         }
