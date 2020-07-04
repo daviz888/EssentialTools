@@ -1,5 +1,6 @@
 ﻿using System.Web.Mvc;
 using EssentialTools.Models;
+using Ninject;
 
 namespace EssentialTools.Controllers
 {
@@ -14,14 +15,13 @@ namespace EssentialTools.Controllers
             new Product {Name = "Corner flag", Category = "Soccer", Price = 34.95M}
         };
 
-        public HomeController(IValueCalculator calcParam, IValueCalculator calc2)
+        public HomeController(IValueCalculator calcParam)
         {
             calc = calcParam;
         }
 
         public ActionResult Index()
         {
-
             ShoppingCart cart = new ShoppingCart(calc) { Products = products };
 
             decimal totalValue = cart.CalculateProductTotal();
