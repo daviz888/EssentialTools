@@ -1,5 +1,3 @@
-C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csprojAssemblyReference.cache
-C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CoreCompileInputs.cache
 C:\Users\lorna\source\repos\EssentialTools\bin\EssentialTools.dll.config
 C:\Users\lorna\source\repos\EssentialTools\bin\EssentialTools.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\EssentialTools.pdb
@@ -67,6 +65,7 @@ C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Razor.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.Deployment.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.Razor.dll
+C:\Users\lorna\source\repos\EssentialTools\bin\WebActivator.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\WebGrease.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Common.xml
@@ -82,7 +81,8 @@ C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.Razor.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Newtonsoft.Json.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Antlr3.Runtime.pdb
 C:\Users\lorna\source\repos\EssentialTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CoreCompileInputs.cache
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CopyComplete
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.dll
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.pdb
-C:\Users\lorna\source\repos\EssentialTools\bin\WebActivator.dll
+C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csprojAssemblyReference.cache
