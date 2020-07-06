@@ -51,6 +51,7 @@ C:\Users\lorna\source\repos\EssentialTools\bin\roslyn\vbc.rsp
 C:\Users\lorna\source\repos\EssentialTools\bin\roslyn\VBCSCompiler.exe
 C:\Users\lorna\source\repos\EssentialTools\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\lorna\source\repos\EssentialTools\bin\Antlr3.Runtime.dll
+C:\Users\lorna\source\repos\EssentialTools\bin\Castle.Core.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Newtonsoft.Json.dll
@@ -58,6 +59,8 @@ C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Common.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Common.WebHost.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Mvc.dll
+C:\Users\lorna\source\repos\EssentialTools\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lorna\source\repos\EssentialTools\bin\System.Threading.Tasks.Extensions.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Helpers.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Mvc.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Optimization.dll
@@ -67,10 +70,13 @@ C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.Razor.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\WebActivator.dll
 C:\Users\lorna\source\repos\EssentialTools\bin\WebGrease.dll
+C:\Users\lorna\source\repos\EssentialTools\bin\Castle.Core.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Common.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Common.WebHost.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Ninject.Web.Mvc.xml
+C:\Users\lorna\source\repos\EssentialTools\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lorna\source\repos\EssentialTools\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Helpers.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Mvc.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.Optimization.xml
@@ -81,8 +87,8 @@ C:\Users\lorna\source\repos\EssentialTools\bin\System.Web.WebPages.Razor.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Newtonsoft.Json.xml
 C:\Users\lorna\source\repos\EssentialTools\bin\Antlr3.Runtime.pdb
 C:\Users\lorna\source\repos\EssentialTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csprojAssemblyReference.cache
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CoreCompileInputs.cache
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csproj.CopyComplete
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.dll
 C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.pdb
-C:\Users\lorna\source\repos\EssentialTools\obj\Debug\EssentialTools.csprojAssemblyReference.cache

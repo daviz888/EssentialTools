@@ -1,0 +1,8 @@
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\b\EssentialTools.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\b\EssentialTools.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\b\EssentialTools.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\b\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.dll
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\i\EssentialTools.Tests\Debug\EssentialTools.Tests.csprojAssemblyReference.cache
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\i\EssentialTools.Tests\Debug\EssentialTools.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\i\EssentialTools.Tests\Debug\EssentialTools.Tests.csproj.CopyComplete
+C:\Users\lorna\source\repos\EssentialTools\.vs\EssentialTools\v16\lut\0\i\EssentialTools.Tests\Debug\EssentialTools.Tests.dll
